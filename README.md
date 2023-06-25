@@ -1,6 +1,6 @@
 <h1> Stock Market piepline </h1>
 
-Educational purpose to pipeline the data
+Pipelining the data for educational purposes.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
