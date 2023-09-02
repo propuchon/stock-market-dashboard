@@ -1,8 +1,5 @@
-# postgres and sql
-apache-airflow==2.6.1
-apache-airflow-providers-common-sql==1.4.0
-psycopg2-binary==2.9.6
-
+# phase 1: web application
+streamlit
 python-dotenv==1.0.0
 pandas>=1.5.3,<1.6
 numpy>=1.24.2,<1.25
@@ -10,6 +7,13 @@ beautifulsoup4>=4.12.0,<4.13
 envyaml==1.10.211231
 requests==2.30
 yfinance==0.2.18
+pandas-ta
+plotly
+
+# # phase 2: collect the data on db
+# apache-airflow==2.6.1
+# apache-airflow-providers-common-sql==1.4.0
+# psycopg2-binary==2.9.6
 
 # format
 autoflake

@@ -163,3 +163,9 @@ cython_debug/
 
 # path file location
 *.ipynb
+
+# phase 2: project remove this after finish the phase 1
+.config
+.dags
+.logs
+.plugins
